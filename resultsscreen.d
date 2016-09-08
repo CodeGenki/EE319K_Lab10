@@ -1,0 +1,11 @@
+.\resultsscreen.o: ResultsScreen.c
+.\resultsscreen.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\resultsscreen.o: tm4c123gh6pm.h
+.\resultsscreen.o: ST7735.h
+.\resultsscreen.o: Random.h
+.\resultsscreen.o: TExaS.h
+.\resultsscreen.o: ADC.h
+.\resultsscreen.o: Timer0.h
+.\resultsscreen.o: Random.h
+.\resultsscreen.o: Movement.h
+.\resultsscreen.o: Sound.h

@@ -1,0 +1,9 @@
+.\hpbar.o: HpBar.c
+.\hpbar.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\hpbar.o: tm4c123gh6pm.h
+.\hpbar.o: ST7735.h
+.\hpbar.o: Random.h
+.\hpbar.o: TExaS.h
+.\hpbar.o: ADC.h
+.\hpbar.o: Movement.h
+.\hpbar.o: Random.h

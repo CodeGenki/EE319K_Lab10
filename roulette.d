@@ -1,0 +1,10 @@
+.\roulette.o: Roulette.c
+.\roulette.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\roulette.o: tm4c123gh6pm.h
+.\roulette.o: ST7735.h
+.\roulette.o: Random.h
+.\roulette.o: TExaS.h
+.\roulette.o: ADC.h
+.\roulette.o: Sound.h
+.\roulette.o: Timer0.h
+.\roulette.o: Random.h

@@ -1,0 +1,10 @@
+.\charselect.o: CharSelect.c
+.\charselect.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\charselect.o: tm4c123gh6pm.h
+.\charselect.o: ST7735.h
+.\charselect.o: Random.h
+.\charselect.o: TExaS.h
+.\charselect.o: ADC.h
+.\charselect.o: Sound.h
+.\charselect.o: Timer0.h
+.\charselect.o: Random.h
